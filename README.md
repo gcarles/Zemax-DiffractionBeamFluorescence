@@ -11,4 +11,4 @@ This set of utilities can be used to calculate the propagation of a diffracted b
  (3) Folder "Matlab" contains sample code to read electric field calculated by (1) and to export database file that may be used by (2).
 
 Citation: "in preparation"
-(c) Guillem Carles (guillemcarles@gmail.com)
+(c) Guillem Carles (guillemcarles (at) gmail.com)
